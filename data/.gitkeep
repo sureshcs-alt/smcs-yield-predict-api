@@ -1,0 +1,2 @@
+# Place your oilseeds_yield.csv in this folder before training
+# Columns required: geography, crop, year, area_mha, production_million_tonne, yield_kg_ha
